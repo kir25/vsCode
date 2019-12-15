@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.smoothScrolling": true,
+    "window.zoomLevel": 0,
+    "files.autoSave": "off",
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "breadcrumbs.enabled": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "eslint.autoFixOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "prettier.disableLanguages": [
+    //     "javascript"
+    // ],
+    "files.associations": {
+        "*.js": "javascript"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    // "[jsonc]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // }
+}
